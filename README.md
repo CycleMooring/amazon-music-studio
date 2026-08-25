@@ -45,4 +45,4 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 ---
 
 ## ⚠️ Disclaimer
-> This project is shared as-is. All product names and logos belong to their respective owners.           
+> This project is shared as-is. All product names and logos belong to their respective owners.            
